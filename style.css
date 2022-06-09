@@ -1,0 +1,149 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width: 50%;
+}
+.header{
+    display: flex;
+}
+.first-para{
+    margin-top: 10%;
+    padding-left: 100px;
+    padding-right: 10px;
+}
+.heading{
+   text-transform: capitalize;
+   padding-left: 40px;
+   font-weight: bold;
+   font-size: 80px;
+   
+  
+}
+.yellow-text{
+    color: orangered;
+}
+.heading-image{
+    width: 600px;
+    height: 700px;
+}
+.container{
+    padding: 0px 30px;
+    display: flex;
+}
+.btn{
+    padding: 20px 20px; 
+    border-radius: 40px;
+    background-color: coral;
+    border: none;
+    outline: none;
+}
+.order-btn{
+    text-decoration: none ;
+    font-size: 25px;
+    padding: 30px 20px;
+    color: white;
+}
+.heading-paragraph{
+    font-size: 30px;
+}
+.about-me{
+    background-image: url(./images/shapes/7.png);
+    margin-top: 120px;
+    padding-bottom: 50PX;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.aboutme-image{
+    width: 340px;
+    height: 100%;
+    padding-top: 60px;
+    padding-left: 220px;
+    padding-bottom: 80px;
+}
+
+.aboutme-heading{
+    text-transform: capitalize;
+    color: black;
+    opacity: 70%;
+    font-size: 50px;
+}
+.aboutme-paragraph{
+    font-size: 25px;
+    line-height: 30pt;
+    margin-bottom: 80px;
+}
+
+}
+my-recipies{
+    
+}
+.myrecipies-textarea{
+    text-align: center;
+}
+.myrecipies-bodyarea{
+    display: flex;
+    gap:50px;
+}
+
+.recipiesone-image{
+    width: 100%;
+    
+}
+.recipiesone-image img {
+    width: 100%;
+}
+.recipie-content{
+    box-shadow: 10px 10px 10px 10px #aaaaaa;
+padding: 20px;
+border-radius: 15px;
+}
+h1{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 40px;
+}
+p{
+    padding-top: 10px ;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.social-media{
+    width: 100%;
+    display: flex;
+    box-shadow: 10px 10px 10px 10px #aaaaaa;
+   margin-top: 100px;
+   
+}
+.socialmedia-body{
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.socialmedia-heading{
+    font-size: 60px;
+    margin-bottom: 0%;
+    text-transform: uppercase;
+}
+.socialmedia-paragraph{
+margin-top: 0%;
+
+}
+.network{
+    background-color: black ;
+    opacity: 80%;
+    color: white;
+    text-align: center;
+    padding: 70px;
+    margin-top: 110px;
+}
+.network h1{
+    text-transform: uppercase;
+    color: darkslategray;
+}
+.orange{
+    color: chocolate;
+}
